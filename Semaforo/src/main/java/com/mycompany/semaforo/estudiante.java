@@ -17,6 +17,7 @@ public class estudiante extends persona {
 	 * @param iEdad Edad del alumno
 	 * @param sNombre Nombre del alumno
 	 * @param iCurso Curso del alumno
+         * @param apellido Apellido
 	 */
 	public estudiante(int iEdad, String sNombre, int iCurso) {
 		i_Edad = iEdad;
